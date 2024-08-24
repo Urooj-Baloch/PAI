@@ -1,0 +1,50 @@
+1. Calculate the body mass index (BMI) of two variables input by the user, where: BMI= weight/(height)^2. 
+
+
+2. Write a program to make a simple calculator performing the four basic operations (+, -, *, /) on two numbersinputby user. The following conditionsmustbe satisfied: 
+a) A ‘+’ sign must not be used foraddition. 
+b) You can only use a maximum of 3 variables. No more variables are allowed. 
+c) Your program should ask the user which operation he/she wants to perform and gives the output accordingly. 
+
+
+3. Write a program to take an integerlist inputfrom user and count all the even numbersin thatlist and printthe count. 
+
+
+4. Write a program that takes a list of numbers asinput and returnsthe sumof all the elementsin the list. 
+
+
+5. Write a program to take a list and a numberinputfrom user and then delete all elementsin the list lessthan that number. 
+
+
+6. Aliza has got 40 Marks in Physics, 78in Chemistry and 82 in Maths. Take these marks as input from user and store them in dictionary with "key as subject name" and "value as marks". By accessing data stored in dictionary, print average of his marks and also print the name of subject in whichshe got highestmarks. 
+
+
+7. Write a program that accepts a word from the user and reversesit using loop. For example, ‘Pakistan’ becomes‘natsikaP’. 
+
+
+8. Write a Python program that iterates the integers from 1 to 50. For multiples of three print "Fizz" instead of the number and for multiples of five print "Buzz". For numbers that are multiples of three and five, print "FizzBuzz". 
+Sample Output : 
+fizzbuzz 
+1 
+2 
+fizz 
+4 
+buzz 
+
+
+9. Write a Python program to create the multiplication table (from 1 to 10) of a number. Expected Output: 
+Input a number: 6 
+6 x 1 = 6 
+6 x 2 = 12 
+6 x 3 = 18 
+6 x 4 = 24 
+6 x 5 = 30 
+6 x 6 = 36 
+6 x 7 = 42 
+6 x 8 = 48 
+6 x 9 = 54 
+6 x 10 = 60
+
+
+10. Write a Python program to get the largest number from a list input from user. 11. Write a program to take marks of 3 subjects as input by user and store them in a dictionary having appropriate keys. Using that dictionary calculate average and percentage of those marks. 
+12. Write a program to print a dictionary where the keys are numbers between 1 and 15 (both included) and the values are the square of the keys.
