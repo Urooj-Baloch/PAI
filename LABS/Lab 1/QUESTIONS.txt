@@ -46,5 +46,9 @@ Input a number: 6
 6 x 10 = 60
 
 
-10. Write a Python program to get the largest number from a list input from user. 11. Write a program to take marks of 3 subjects as input by user and store them in a dictionary having appropriate keys. Using that dictionary calculate average and percentage of those marks. 
+10. Write a Python program to get the largest number from a list input from user.
+
+11. Write a program to take marks of 3 subjects as input by user and store them in a dictionary having appropriate keys. Using that dictionary calculate average and percentage of those marks. 
+
+
 12. Write a program to print a dictionary where the keys are numbers between 1 and 15 (both included) and the values are the square of the keys.
