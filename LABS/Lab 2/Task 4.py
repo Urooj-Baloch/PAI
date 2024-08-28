@@ -6,4 +6,4 @@ def employee(name, sal=10000):
 
 
 employee("Urooj Baloch")
-employee("Mahnoor Hussain", 15000)  # With specified salary
+employee("Mahnoor Hussain", 15000)  
