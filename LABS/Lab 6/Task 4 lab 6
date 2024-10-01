@@ -1,0 +1,10 @@
+import pandas as pd
+data = {
+    'Name': ['Urooj', 'Bisma', 'Charlie', 'humna'],
+    'Age': [19, 27, 22, 32],
+    'Score': [88, 92, 85, 90]
+}
+df = pd.DataFrame(data)
+df.index = range(100, 100 + len(df))
+print("DataFrame with custom index starting from 100:")
+print(df)
