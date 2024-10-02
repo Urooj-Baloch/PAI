@@ -4,4 +4,4 @@ df['sex'] = df['sex'].replace({1: 'Male', 0: 'Female'})
 
 df.to_csv('updated_file.csv', index=False)
 
-print("Conversion completed. Updated file saved as 'updated_file.csv'.")
+print("Updated data saved in file 'updated_file.csv'.")
