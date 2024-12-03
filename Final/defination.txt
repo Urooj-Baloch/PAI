@@ -1,0 +1,9 @@
+	•	Line Plot: Shows changes over time
+	•	Histogram: Shows data spread
+	•	Scatter Plot: Shows relationships between points
+	•	Pie Chart: Shows parts of a whole
+	•	Box Plot: Shows range and outliers
+	•	Violin Plot: Shows data shape
+	•	Heatmap: Shows patterns in data
+	•	Bar Chart: Compares categories
+	•	Pair Plot: Compares multiple pairs
